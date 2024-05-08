@@ -1,0 +1,15 @@
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.AssemblyInfoInputs.cache
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.AssemblyInfo.cs
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.csproj.CoreCompileInputs.cache
+C:\Users\Антон\source\repos\Webb\Webb\bin\Debug\net8.0\Webb.exe
+C:\Users\Антон\source\repos\Webb\Webb\bin\Debug\net8.0\Webb.deps.json
+C:\Users\Антон\source\repos\Webb\Webb\bin\Debug\net8.0\Webb.runtimeconfig.json
+C:\Users\Антон\source\repos\Webb\Webb\bin\Debug\net8.0\Webb.dll
+C:\Users\Антон\source\repos\Webb\Webb\bin\Debug\net8.0\Webb.pdb
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.dll
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\refint\Webb.dll
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.pdb
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.genruntimeconfig.cache
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\ref\Webb.dll
+C:\Users\Антон\source\repos\Webb\Webb\obj\Debug\net8.0\Webb.sourcelink.json
